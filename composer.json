@@ -1,0 +1,19 @@
+{
+    "name": "thiio/midigator",
+    "description": "This is a SDK built in PHP for consuming midigator api as detailed https://midigator.com/",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thiio\\Midigator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Enrique Hoy Chi",
+            "email": "enrique@thiio.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
