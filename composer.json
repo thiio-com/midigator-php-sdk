@@ -20,6 +20,10 @@
         {
             "name": "Carlos Enrique Hoy Chi",
             "email": "enrique@thiio.com"
+        },
+        {
+            "name": "WebforceHQ",
+            "email": "fordonez@webforcehq.com"
         }
     ],
     "minimum-stability": "dev",
