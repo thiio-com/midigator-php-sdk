@@ -1,6 +1,6 @@
 <?php
 
-namespace WebforceHQ\Midigator\Models;
+namespace Thiio\Midigator\Models;
 
 class Note extends MidigatorModel{
     

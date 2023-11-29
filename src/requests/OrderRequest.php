@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\Midigator\Requests;
+namespace Thiio\Midigator\Requests;
 
-use WebforceHQ\Midigator\MidigatorRequest;
-use WebforceHQ\Midigator\Models\Order;
+use Thiio\Midigator\MidigatorRequest;
+use Thiio\Midigator\Models\Order;
 
 class OrderRequest extends MidigatorRequest
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace WebforceHQ\Midigator\Models;
+namespace Thiio\Midigator\Models;
 
-use WebforceHQ\Midigator\Exceptions\CardBrandException;
+use Thiio\Midigator\Exceptions\CardBrandException;
 
 class Order extends MidigatorModel
 {

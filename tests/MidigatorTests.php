@@ -1,8 +1,8 @@
 <?php
 
-use WebforceHQ\Midigator\Models\Subscription;
+use Thiio\Midigator\Models\Subscription;
 use PHPUnit\Framework\TestCase;
-use WebforceHQ\Midigator\Client;
+use Thiio\Midigator\Client;
 
 
 class MidigatorTests extends TestCase

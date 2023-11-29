@@ -1,6 +1,6 @@
 <?php
 
-namespace WebforceHQ\Midigator\Exceptions;
+namespace Thiio\Midigator\Exceptions;
 
 use Exception;
 

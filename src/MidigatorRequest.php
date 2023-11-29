@@ -1,12 +1,12 @@
 <?php
 
-namespace WebforceHQ\Midigator;
+namespace Thiio\Midigator;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Exception\ClientException;
-use WebforceHQ\Midigator\Exceptions\FetchTokenException;
-use WebforceHQ\Midigator\Exceptions\UnsetRequestException;
+use Thiio\Midigator\Exceptions\FetchTokenException;
+use Thiio\Midigator\Exceptions\UnsetRequestException;
 
 
 class MidigatorRequest

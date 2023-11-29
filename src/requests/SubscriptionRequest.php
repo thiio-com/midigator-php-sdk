@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\Midigator\Requests;
+namespace Thiio\Midigator\Requests;
 
-use WebforceHQ\Midigator\Models\Subscription;
-use WebforceHQ\Midigator\MidigatorRequest;
+use Thiio\Midigator\Models\Subscription;
+use Thiio\Midigator\MidigatorRequest;
 
 class SubscriptionRequest extends MidigatorRequest
 {

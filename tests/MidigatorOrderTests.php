@@ -2,11 +2,11 @@
 
 
 use PHPUnit\Framework\TestCase;
-use WebforceHQ\Midigator\Client;
-use WebforceHQ\Midigator\Models\Evidence;
-use WebforceHQ\Midigator\Models\Order;
-use WebforceHQ\Midigator\Models\Proof;
-use WebforceHQ\Midigator\Models\ShippingDetails;
+use Thiio\Midigator\Client;
+use Thiio\Midigator\Models\Evidence;
+use Thiio\Midigator\Models\Order;
+use Thiio\Midigator\Models\Proof;
+use Thiio\Midigator\Models\ShippingDetails;
 
 use function GuzzleHttp\json_encode;
 

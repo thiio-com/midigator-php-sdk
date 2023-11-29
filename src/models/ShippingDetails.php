@@ -1,6 +1,6 @@
 <?php
 
-namespace WebforceHQ\Midigator\Models;
+namespace Thiio\Midigator\Models;
 
 class ShippingDetails extends MidigatorModel{
 

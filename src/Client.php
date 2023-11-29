@@ -1,10 +1,10 @@
 <?php
 
-namespace WebforceHQ\Midigator;
+namespace Thiio\Midigator;
 
-use WebforceHQ\Midigator\Requests\OrderRequest;
-use WebforceHQ\Midigator\Requests\SubscriptionRequest;
-use WebforceHQ\Midigator\Requests\AuthRequest;
+use Thiio\Midigator\Requests\OrderRequest;
+use Thiio\Midigator\Requests\SubscriptionRequest;
+use Thiio\Midigator\Requests\AuthRequest;
 
 class Client
 {

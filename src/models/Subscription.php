@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\Midigator\Models;
+namespace Thiio\Midigator\Models;
 
 use phpDocumentor\Reflection\Types\Boolean;
-use WebforceHQ\Midigator\Models\MidigatorModel;
+use Thiio\Midigator\Models\MidigatorModel;
 
 class Subscription extends MidigatorModel
 {
